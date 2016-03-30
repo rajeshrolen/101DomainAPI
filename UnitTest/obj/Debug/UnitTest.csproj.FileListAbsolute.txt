@@ -1,0 +1,14 @@
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\UnitTest.dll
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\UnitTest.pdb
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\101DomainsAPI.dll
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\101DomainsAPI.pdb
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.dll
+D:\E\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.pdb
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\UnitTest.dll
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\UnitTest.pdb
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\101DomainsAPI.dll
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\bin\Debug\101DomainsAPI.pdb
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.dll
+E:\Projects\Ersel\101DomainAPI\trunk\UnitTest\obj\Debug\UnitTest.pdb

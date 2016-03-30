@@ -1,0 +1,10 @@
+D:\E\Projects\Ersel\101DomainAPI\trunk\bin\Debug\101DomainsAPI.dll
+D:\E\Projects\Ersel\101DomainAPI\trunk\bin\Debug\101DomainsAPI.pdb
+D:\E\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.csprojResolveAssemblyReference.cache
+D:\E\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.dll
+D:\E\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.pdb
+E:\Projects\Ersel\101DomainAPI\trunk\bin\Debug\101DomainsAPI.dll
+E:\Projects\Ersel\101DomainAPI\trunk\bin\Debug\101DomainsAPI.pdb
+E:\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.csprojResolveAssemblyReference.cache
+E:\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.dll
+E:\Projects\Ersel\101DomainAPI\trunk\obj\Debug\101DomainsAPI.pdb
